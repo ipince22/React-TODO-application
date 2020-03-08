@@ -1,4 +1,8 @@
-# Hello World with React boilerplate
+# TODO-list
+Create a TODO list application that allows users to add and delete tasks.using useState,Array.map(item,index)
+
+You app needs to look like this.(https://projects.breatheco.de/json/?slug=todo-list&preview) The tasks are added when the user press enter on the keyboard or you can have your own button. The delete icon shows only when the task is hovered. The use can add as many tasks as it wants. When there is no tasks the list should "No tasks, add a task" There is no way to update a task, the user will ahve to delete and create again.
+
 <p>
   <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
   </a>
